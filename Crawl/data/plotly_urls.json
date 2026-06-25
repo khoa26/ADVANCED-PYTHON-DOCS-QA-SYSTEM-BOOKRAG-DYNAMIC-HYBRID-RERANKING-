@@ -1,0 +1,2154 @@
+[
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Scattergl.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/generated/plotly.graph_objs.Figure.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.yaxis.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.xaxis.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.map.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.funnelarea.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.splom.marker.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.data.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.choropleth.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.scatter_mapbox.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.histogram2dcontour.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.icicle.marker.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Scattercarpet.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.funnel.marker.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.choroplethmap.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.waterfall.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattermapbox.marker.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.isosurface.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.figure_factory.create_ternary_contour.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.barpolar.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.scene.camera.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.ternary.aaxis.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.figure_factory.create_trisurf.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.io.to_image.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.image.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.volume.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.densitymapbox.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.scatter_matrix.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatterternary.unselected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.histogram2dcontour.contours.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.bar.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.box.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.streamtube.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatter3d.marker.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.waterfall.totals.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Contourcarpet.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.heatmap.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.io.to_html.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattergeo.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.figure_factory.create_facet_grid.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.choroplethmap.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.candlestick.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattermap.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.density_map.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.funnel.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattersmith.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.violin.selected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.table.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.heatmap.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.histogram2dcontour.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.sankey.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.contourcarpet.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattercarpet.selected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.funnelarea.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.indicator.number.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.isosurface.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.polar.angularaxis.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.figure_factory.create_quiver.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.mesh3d.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.ohlc.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.indicator.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/modules.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Scatter3d.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.bar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Scattergeo.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.waterfall.increasing.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.volume.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.scene.xaxis.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.splom.unselected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.figure_factory.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Box.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.histogram2dcontour.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.smith.imaginaryaxis.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.cone.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.scatter_geo.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.choropleth.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.densitymap.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.box.unselected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Choroplethmap.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.densitymapbox.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.barpolar.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.histogram.marker.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.strip.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.choroplethmapbox.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Mesh3d.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.figure_factory.create_dendrogram.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Scatterpolar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.io.to_json.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattermap.marker.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.indicator.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.mesh3d.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.legend.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.splom.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatterternary.selected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.densitymapbox.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.indicator.delta.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.isosurface.caps.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.xaxis.rangeselector.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.slider.currentvalue.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatterpolargl.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatterpolargl.unselected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Choroplethmapbox.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.choroplethmap.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Streamtube.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.surface.contours.z.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.box.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.funnel.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.funnelarea.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.splom.selected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.carpet.aaxis.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattermapbox.unselected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.parcats.line.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.density_mapbox.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.treemap.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.densitymapbox.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattercarpet.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatterpolar.marker.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.sankey.node.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.line_mapbox.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.volume.slices.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.scene.xaxis.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattercarpet.marker.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.figure_factory.create_table.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.table.cells.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.template.data.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Sunburst.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.densitymap.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattersmith.selected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.scene.zaxis.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattercarpet.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatter3d.line.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.indicator.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatter3d.marker.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatter.unselected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.waterfall.totals.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatter.marker.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.line_ternary.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.choroplethmapbox.selected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattergl.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.sunburst.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.surface.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.isosurface.slices.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.isosurface.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.contour.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Layout.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.bar.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.pie.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.polar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.figure_factory.create_choropleth.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.volume.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.mapbox.layer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.waterfall.decreasing.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.set_mapbox_access_token.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.treemap.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.box.selected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Icicle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.ohlc.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Contour.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.barpolar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.subplots.make_subplots.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.choroplethmap.unselected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatterternary.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.annotation.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.isosurface.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatter3d.line.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.treemap.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.densitymapbox.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.contourcarpet.contours.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.indicator.gauge.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.box.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatterpolar.marker.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.funnelarea.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattermapbox.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.waterfall.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.parcoords.unselected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.densitymap.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.coloraxis.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.contourcarpet.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.contourcarpet.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattermap.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.choropleth.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.ternary.aaxis.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.histogram.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.sankey.link.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatter3d.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.barpolar.unselected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.carpet.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.waterfall.increasing.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.io.show.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.bar.marker.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.shape.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.figure_factory.create_bullet.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/generated/plotly.graph_objs.Figure.update_traces.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.histogram.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatterternary.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Barpolar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatterpolar.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.coloraxis.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatterternary.marker.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.scene.yaxis.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Candlestick.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.scatter.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatterpolargl.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.ohlc.increasing.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.newshape.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatterternary.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattergl.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/generated/plotly.graph_objs.Figure.add_traces.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatter3d.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.title.subtitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattergeo.selected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattermap.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.line_polar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.choroplethmap.selected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Scattermap.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.indicator.gauge.step.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.scene.annotation.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatterpolargl.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.scene.zaxis.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.box.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatter.marker.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.parcoords.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Densitymapbox.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatterpolargl.selected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.annotation.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.smith.realaxis.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Carpet.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.figure_factory.create_gantt.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.surface.contours.y.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.get_trendline_results.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.streamtube.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.mesh3d.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Scatterternary.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.choroplethmapbox.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.contour.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.surface.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.parcoords.line.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.choropleth.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.histogram2d.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Pie.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.choroplethmapbox.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatter.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.ecdf.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.line_map.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.io.templates.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.sunburst.marker.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattercarpet.marker.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.io.write_html.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.choroplethmapbox.unselected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.indicator.gauge.axis.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.candlestick.increasing.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.ternary.baxis.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.icicle.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.colors.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.smith.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatterpolargl.marker.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.splom.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.histogram.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.violin.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.newshape.label.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.map.layer.symbol.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.cone.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.pie.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattergl.selected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.bar_polar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.candlestick.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.scene.annotation.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.cone.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/generated/plotly.graph_objs.Figure.show.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.funnel.marker.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.data.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.splom.marker.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.choroplethmap.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatterpolar.selected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.bar.marker.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.treemap.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattermap.selected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.selection.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.box.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.funnel.connector.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatter.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.contourcarpet.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.candlestick.decreasing.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.contour.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatter.selected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.yaxis.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.updatemenu.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Heatmap.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.choropleth.selected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.surface.contours.x.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.io.renderers.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.candlestick.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.parcoords.line.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.parcats.line.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattercarpet.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.timeline.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.violin.box.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattermapbox.selected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.shape.label.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattermapbox.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.treemap.marker.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.streamtube.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatter3d.line.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.indicator.gauge.bar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattergeo.marker.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.funnelarea.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.figure_factory.create_scatterplotmatrix.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.icicle.pathbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.scene.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.violin.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.choropleth_mapbox.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatterpolargl.marker.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.pie.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattergl.marker.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Table.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.legend.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.coloraxis.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.waterfall.connector.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.figure_factory.create_ohlc.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.bar.selected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.volume.caps.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatter3d.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.choropleth.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.icicle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Image.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatter.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Histogram2d.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Parcats.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Violin.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.parcats.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.sankey.link.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Scatter.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.ternary.caxis.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objects.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.barpolar.selected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.choroplethmapbox.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.figure_factory.create_violin.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.map.layer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/generated/plotly.graph_objs.Figure.update_layout.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.ternary.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Histogram2dContour.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattermap.unselected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.violin.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.histogram2d.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatterpolar.unselected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattergl.marker.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.line.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.pie.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattercarpet.unselected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.scatter_ternary.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.barpolar.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.scatter_map.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.polar.radialaxis.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattersmith.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattersmith.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.shape.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Cone.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.mapbox.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.streamtube.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.densitymap.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.area.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatterpolar.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.template.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.trendline_functions.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Waterfall.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.figure_factory.create_hexbin_map.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattergeo.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Isosurface.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.table.header.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.contour.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.choropleth.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.surface.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.parcats.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.choroplethmap.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.figure_factory.create_distplot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatter3d.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattergeo.unselected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.table.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Scatterpolargl.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.xaxis.rangeslider.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.newshape.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattermap.marker.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.histogram.unselected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.ohlc.decreasing.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.histogram.marker.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.table.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Choropleth.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Ohlc.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.choropleth.unselected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Densitymap.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Treemap.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.ohlc.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.heatmap.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattersmith.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.scene.yaxis.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.io.to_templated.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Surface.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.density_heatmap.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.surface.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.histogram.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.violin.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.sunburst.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Parcoords.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.parallel_categories.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattersmith.marker.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.icicle.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattersmith.unselected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.parcats.line.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattermapbox.marker.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.imshow.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.sunburst.marker.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Figure.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.newselection.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.basedatatypes.BaseFigure.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattergl.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Indicator.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.contour.contours.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.pie.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.parcoords.line.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.surface.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.treemap.marker.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.histogram2d.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.indicator.gauge.threshold.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattergl.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.funnel.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.io.write_json.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.grid.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattermapbox.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.splom.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.parallel_coordinates.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.barpolar.marker.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Scattermapbox.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.polar.radialaxis.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.choroplethmapbox.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.funnel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.histogram2dcontour.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.slider.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.histogram.selected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.figure_factory.create_annotated_heatmap.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.funnel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.cone.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.choroplethmap.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.histogram.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.carpet.aaxis.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.carpet.baxis.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.sunburst.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.sunburst.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattergeo.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.streamtube.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.treemap.pathbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattergeo.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.io.write_image.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.bar.unselected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatterpolar.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.contour.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattermap.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.violin.unselected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.choropleth_map.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.figure_factory.create_candlestick.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.histogram2dcontour.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.xaxis.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatter3d.projection.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.bar.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Funnelarea.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.image.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.violin.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.mesh3d.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.sankey.node.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatterpolargl.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatterternary.marker.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Sankey.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.choropleth.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.mapbox.layer.symbol.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattergeo.marker.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.volume.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.icicle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.mesh3d.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.funnel_area.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.barpolar.marker.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.histogram2d.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.io.read_json.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.cone.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.treemap.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.densitymap.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.isosurface.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattermapbox.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.geo.projection.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.splom.dimension.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.histogram2d.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.carpet.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatter.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.parcoords.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.colors.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.density_contour.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattersmith.marker.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.splom.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.waterfall.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.line_3d.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Histogram.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.waterfall.decreasing.marker.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.icicle.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatterpolar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.carpet.baxis.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.line_geo.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.pie.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.io.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.scatter_3d.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.express.scatter_polar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Bar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.heatmap.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.sankey.hoverlabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Funnel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.icicle.marker.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.figure_factory.create_2d_density.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.choroplethmapbox.colorbar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.heatmap.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.ternary.caxis.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.sunburst.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.volume.colorbar.title.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scatterternary.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattercarpet.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.io.from_json.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.bar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Splom.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.scattergl.unselected.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.Volume.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.geo.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.surface.contours.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.sankey.legendgrouptitle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.layout.ternary.baxis.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.figure_factory.create_streamline.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://plotly.com/python-api-reference/generated/plotly.graph_objs.image.html",
+        "layer": "Tầng 1: API Reference"
+    }
+]

@@ -1,0 +1,770 @@
+[
+    {
+        "url": "https://seaborn.pydata.org/tutorial/regression.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.FacetGrid.pipe.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Plot.limit.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Stat.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/whatsnew/v0.5.0.html",
+        "layer": "Tầng 4: Release Notes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.JointGrid.pipe.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.PairGrid.map_lower.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.light_palette.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.pointplot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.set.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.desaturate.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.FacetGrid.savefig.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Plot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.hls_palette.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.choose_light_palette.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/whatsnew/v0.9.1.html",
+        "layer": "Tầng 4: Release Notes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.diverging_palette.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.mpl_palette.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Mark.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.FacetGrid.set_yticklabels.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/tutorial.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.load_dataset.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.FacetGrid.set_ylabels.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Agg.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.distplot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.FacetGrid.facet_axis.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Plot.add.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Lines.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.swarmplot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.FacetGrid.apply.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.blend_palette.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/whatsnew/v0.3.1.html",
+        "layer": "Tầng 4: Release Notes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.FacetGrid.map.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.choose_diverging_palette.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.jointplot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.move_legend.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/tutorial/data_structure.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Dash.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/tutorial/categorical.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/whatsnew/v0.13.1.html",
+        "layer": "Tầng 4: Release Notes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.JointGrid.savefig.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.residplot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.boxenplot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/whatsnew/v0.6.0.html",
+        "layer": "Tầng 4: Release Notes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Perc.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.reset_defaults.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.PairGrid.map.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Range.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.barplot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.FacetGrid.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Plot.save.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.crayon_palette.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.reset_orig.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.PairGrid.map_upper.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.FacetGrid.tick_params.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/whatsnew/v0.10.0.html",
+        "layer": "Tầng 4: Release Notes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.FacetGrid.set_xlabels.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.regplot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/whatsnew/v0.13.0.html",
+        "layer": "Tầng 4: Release Notes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.PairGrid.tick_params.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Continuous.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.JointGrid.__init__.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Dodge.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.JointGrid.set.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.PairGrid.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/whatsnew/v0.11.0.html",
+        "layer": "Tầng 4: Release Notes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/tutorial/properties.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.PairGrid.map_diag.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Count.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.xkcd_palette.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Plot.facet.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/whatsnew/v0.3.0.html",
+        "layer": "Tầng 4: Release Notes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.FacetGrid.set_axis_labels.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Shift.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Plot.scale.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Plot.show.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.FacetGrid.set.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.FacetGrid.set_xticklabels.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.get_dataset_names.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Paths.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/whatsnew/v0.12.0.html",
+        "layer": "Tầng 4: Release Notes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Plot.label.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/tutorial/error_bars.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/whatsnew/v0.12.1.html",
+        "layer": "Tầng 4: Release Notes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.JointGrid.set_axis_labels.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/whatsnew/v0.2.0.html",
+        "layer": "Tầng 4: Release Notes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Bar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.JointGrid.plot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Bars.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/whatsnew/v0.12.2.html",
+        "layer": "Tầng 4: Release Notes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.plotting_context.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.pairplot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Plot.share.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.PairGrid.set.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.set_theme.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Area.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.ecdfplot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.PairGrid.__init__.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.PairGrid.tight_layout.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.dark_palette.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.lmplot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/tutorial/axis_grids.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/tutorial/distributions.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.get_data_home.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.FacetGrid.despine.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Nominal.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/tutorial/color_palettes.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.heatmap.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Temporal.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/whatsnew/v0.2.1.html",
+        "layer": "Tầng 4: Release Notes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Norm.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.catplot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Move.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/tutorial/introduction.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.lineplot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.JointGrid.apply.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.clustermap.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/whatsnew/v0.13.2.html",
+        "layer": "Tầng 4: Release Notes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.set_style.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.set_palette.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/whatsnew/v0.4.0.html",
+        "layer": "Tầng 4: Release Notes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Text.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/whatsnew/v0.7.1.html",
+        "layer": "Tầng 4: Release Notes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.FacetGrid.map_dataframe.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.set_color_codes.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.set_hls_values.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.choose_dark_palette.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.countplot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.PairGrid.map_offdiag.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.PairGrid.add_legend.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Scale.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.FacetGrid.set_titles.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.axes_style.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.kdeplot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/tutorial/objects_interface.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.FacetGrid.__init__.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.PairGrid.pipe.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Dots.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.despine.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/whatsnew/v0.8.1.html",
+        "layer": "Tầng 4: Release Notes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.scatterplot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.histplot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.JointGrid.plot_marginals.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.choose_cubehelix_palette.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Band.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.husl_palette.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Boolean.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Plot.theme.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.violinplot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.stripplot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/whatsnew/v0.8.0.html",
+        "layer": "Tầng 4: Release Notes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Path.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/whatsnew/v0.9.0.html",
+        "layer": "Tầng 4: Release Notes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Line.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.color_palette.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.JointGrid.plot_joint.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.saturate.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/whatsnew/v0.11.2.html",
+        "layer": "Tầng 4: Release Notes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/whatsnew/v0.5.1.html",
+        "layer": "Tầng 4: Release Notes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.relplot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.displot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.PairGrid.savefig.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.set_context.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Dot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.FacetGrid.facet_data.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Hist.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.boxplot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.PolyFit.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.FacetGrid.tight_layout.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.FacetGrid.refline.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/tutorial/function_overview.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.choose_colorbrewer_palette.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Jitter.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Plot.layout.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/whatsnew/index.html",
+        "layer": "Tầng 4: Release Notes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.KDE.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.JointGrid.refline.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.cubehelix_palette.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.FacetGrid.add_legend.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Plot.pair.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Stack.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.rugplot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.JointGrid.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.PairGrid.apply.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/whatsnew/v0.10.1.html",
+        "layer": "Tầng 4: Release Notes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Plot.plot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/tutorial/relational.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/whatsnew/v0.11.1.html",
+        "layer": "Tầng 4: Release Notes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/whatsnew/v0.7.0.html",
+        "layer": "Tầng 4: Release Notes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/tutorial/aesthetics.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Est.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://seaborn.pydata.org/generated/seaborn.objects.Plot.on.html",
+        "layer": "Tầng 1: API Reference"
+    }
+]

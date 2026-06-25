@@ -1,0 +1,1414 @@
+[
+    {
+        "url": "https://www.nltk.org/api/nltk.draw.cfg.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tbl.api.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.nkjp.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.inference.prover9.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tag.brill_trainer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.sem.drt.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.metrics.aline.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.nps_chat.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.parse.transitionparser.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.parse.malt.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.bcp47.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.sem.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.nombank.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.translate.phrase_based.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/misc.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.app.wordfreq_app.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.chunk.regexp.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/meteor.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.misc.minimalset.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.app.chunkparser_app.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.inference.resolution.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.metrics.confusionmatrix.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/lm.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tokenize.mwe.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.twitter.twitter_demo.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tag.mapping.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/toolbox.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.classify.textcat.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.parse.recursivedescent.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.classify.tadm.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.classify.api.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.parse.evaluate.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.classify.naivebayes.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.parse.projectivedependencyparser.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/gensim.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.lm.api.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.jsontags.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.panlex_lite.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/gluesemantics.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.chat.rude.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.translate.lepor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.langnames.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tokenize.legality_principle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.app.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tree.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.conll.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.markdown.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.translate.api.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tree.probabilistic.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/probability.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.parse.earleychart.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.stem.regexp.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.stem.arlstem.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.ccg.combinator.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.util.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.draw.tree.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.app.rdparser_app.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/tokenize.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tokenize.stanford.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/internals.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.tagged.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.inference.api.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/relextract.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.mte.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.util.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/data.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.sem.logic.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/parse.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.categorized_sents.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.metrics.spearman.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.sem.chat80.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tokenize.simple.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.ccg.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.metrics.agreement.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.sentiment.vader.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tag.stanford.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.cli.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tokenize.nist.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.lm.util.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.inference.discourse.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.translate.metrics.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.metrics.association.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.sem.skolemize.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/concordance.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.semcor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.app.nemo_app.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/dependency.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.translate.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.parse.featurechart.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.stem.arlstem2.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/semantics.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tbl.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.sentiment.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.cluster.kmeans.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.stem.snowball.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tokenize.repp.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.metrics.scores.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.chat.suntsu.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tag.senna.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.chunk.api.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.aligned.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.lin.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.sem.linearlogic.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tag.brill.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.misc.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.app.wordnet_app.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/grammar.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.draw.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/portuguese_en.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.chunked.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.inference.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.translate.gale_church.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.pros_cons.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.sem.util.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.ccg.logic.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tokenize.texttiling.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.metrics.distance.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.twitter.api.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.inference.tableau.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.chunk.named_entity.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.knbc.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.parse.dependencygraph.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.stem.wordnet.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/framenet.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.stem.isri.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.europarl_raw.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.bnc.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.api.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.sem.cooper_storage.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.classify.svm.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.stem.lancaster.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tokenize.toktok.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.stem.cistem.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.udhr.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/featstruct.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/howto/paice.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.chat.iesha.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tag.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.framenet.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tree.immutable.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.chat.util.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.lm.preprocessing.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.verbnet.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/corpus.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/howto/collections.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.probability.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/tag.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/howto/nonmonotonic.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.twitter.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.stem.rslp.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tbl.demo.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tag.hunpos.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.bracket_parse.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.ieer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/japanese.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.translate.ibm3.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.cluster.util.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/childes.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tag.tnt.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/ccg.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.panlex_swadesh.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.parse.bllip.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.featstruct.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.metrics.segmentation.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tokenize.sonority_sequencing.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.inference.nonmonotonic.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tabdata.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.parse.pchart.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/crubadan.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.classify.weka.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.translate.meteor_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.reviews.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tokenize.casual.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.chat.zen.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.childes.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.plaintext.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.parse.chart.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.lm.counter.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.translate.ibm_model.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.translate.ibm1.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/featgram.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/howto/simple.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tokenize.treebank.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/gluesemantics_malt.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.cluster.em.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/metrics.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.ycoe.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tree.tree.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.twitter.twitterclient.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.internals.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.draw.util.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.xmldocs.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.cluster.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.timit.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/drt.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.crubadan.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.app.chartparser_app.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.stem.api.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.propbank.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.ccg.lexicon.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tokenize.stanford_segmenter.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.data.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.classify.megam.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/wordnet_lch.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.book.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.inference.mace.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/sentiwordnet.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.parse.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.sinica_treebank.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.misc.chomsky.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.opinion_lexicon.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.downloader.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.chunk.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tbl.template.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.ccg.chart.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tokenize.punkt.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.chat.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.compat.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.sem.lfg.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.app.srparser_app.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/classify.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tokenize.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/resolution.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tag.perceptron.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tree.prettyprinter.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.draw.dispersion.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.parse.util.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/util.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.sem.relextract.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/stem.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.parse.corenlp.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tbl.rule.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.classify.rte_classify.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.pl196x.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.ppattach.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.translate.bleu_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.collocations.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.twitter.util.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/chat80.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.misc.wordfinder.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.switchboard.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.wordlist.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/logic.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.toolbox.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.misc.babelfish.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.senseval.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tokenize.api.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.translate.ibm2.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.wsd.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.translate.ribes_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.text.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tgrep.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tree.parsing.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.sentiwordnet.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/bleu.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.stem.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.metrics.paice.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.parse.api.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/wsd.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.toolbox.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.grammar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.stem.util.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tokenize.regexp.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.sem.hole.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tag.crf.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/treetransforms.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.sem.glue.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.ccg.api.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.chat.eliza.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.draw.table.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/discourse.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.sem.evaluate.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.classify.maxent.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.help.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tokenize.util.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tag.sequential.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.sem.boxer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.twitter.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/chunk.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.lm.vocabulary.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.wordnet.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.lm.smoothing.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.chasen.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tag.hmm.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.app.collocations_app.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.stem.porter.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.translate.chrf_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/ccg_semantics.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.cmudict.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.string_category.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.classify.util.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.treetransforms.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.lm.models.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.app.concordance_app.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.decorators.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.dependency.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.parse.shiftreduce.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.classify.scikitlearn.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/sentiment.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.lazyimport.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/bnc.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/howto/tree.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/howto/wordnet.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.translate.gdfa.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.sentiment.sentiment_analyzer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.translate.nist_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.collections.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.comparative_sents.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.classify.decisiontree.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.chunk.util.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.misc.sort.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.rte.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.classify.senna.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tag.api.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.translate.stack_decoder.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.cluster.gaac.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.twitter.common.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tree.parented.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.sem.drt_glue_demo.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.ipipan.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.parse.generate.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tag.util.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.translate.gleu_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.parse.nonprojectivedependencyparser.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tbl.feature.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/inference.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.lm.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/propbank.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.parse.stanford.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.reader.indian.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tbl.erroranalysis.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.translate.ibm4.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.classify.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tokenize.destructive.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.classify.positivenaivebayes.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.parse.viterbi.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.treeprettyprinter.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tree.transforms.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.corpus.util.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.metrics.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.translate.ibm5.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.sentiment.util.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/collocations.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.tokenize.sexpr.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/api/nltk.cluster.api.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://www.nltk.org/howto/translate.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/howto/generate.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/howto/grammartestsuites.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://www.nltk.org/howto/treeprettyprinter.html",
+        "layer": "Tầng 3: Code Recipes"
+    }
+]

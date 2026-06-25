@@ -1,0 +1,10 @@
+matplotlib:https://matplotlib.org/stable/objects.inv
+numpy:https://numpy.org/doc/stable/objects.inv
+seaborn:https://seaborn.pydata.org/objects.inv
+pandas:https://pandas.pydata.org/pandas-docs/stable/objects.inv
+scikit-learn:https://scikit-learn.org/stable/objects.inv
+pytorch:https://pytorch.org/docs/stable/objects.inv
+nltk:https://www.nltk.org/objects.inv
+scipy:https://docs.scipy.org/doc/scipy/objects.inv
+plotly:https://plotly.com/python-api-reference/objects.inv
+huggingface:https://huggingface.co/docs/transformers/main/en/objects.inv

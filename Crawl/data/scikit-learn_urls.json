@@ -1,0 +1,3954 @@
+[
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoCV.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.isotonic.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.gen_even_slices.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/mixture/plot_concentration_prior.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.paired_manhattan_distances.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/neural_networks/plot_rbm_logistic_classification.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.base.RegressorMixin.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.covariance.MinCovDet.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.Bunch.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpc_iris.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.inspection.partial_dependence.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.base.TransformerMixin.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/oas-function.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.LeaveOneOut.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.multiclass.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/applications/plot_out_of_core_classification.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_discretization_strategies.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.manifold.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/semi_supervised/plot_self_training_varying_threshold.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/svm/plot_linearsvc_support_vectors.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.mixture.GaussianMixture.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/mixture/plot_gmm.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/svm/plot_oneclass.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_ridge_path.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.f_classif.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.IncrementalPCA.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.LeaveOneGroupOut.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_co2.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.RegressorTags.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_sgd_separating_hyperplane.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.tree.ExtraTreeRegressor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_hdbscan.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.svm.NuSVR.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.base.ClusterMixin.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_nested_cross_validation_iris.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mutual_info_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.callback.CallbackSupportMixin.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_20newsgroups_vectorized.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.parallel.Parallel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.base.clone.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/tree/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/bicluster/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.BayesianRidge.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_sgd_penalties.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_likelihood_ratios.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.FeatureHasher.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KDTree.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_1_2_0.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.HashingVectorizer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/neighbors/plot_digits_kde_sampling.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.svm.l1_min_c.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_elastic_net_precomputed_gram_matrix_with_weighted_samples.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.kernel_approximation.SkewedChi2Sampler.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.manifold.MDS.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.manifold.LocallyLinearEmbedding.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.root_mean_squared_error.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.base.MetaEstimatorMixin.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cross_decomposition.CCA.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_lfw_people.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.SparsePCA.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.image.grid_to_graph.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/manifold/plot_manifold_sphere.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.kernel_approximation.PolynomialCountSketch.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.covariance.ledoit_wolf.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.covariance.EllipticEnvelope.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.cluster.pair_confusion_matrix.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.get_scorer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/mixture.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.NearestNeighbors.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cluster.mean_shift.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_1_1_0.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.dict_learning.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.check_array.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.indexable.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/kernel_approximation/plot_scalable_poly_kernels.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_lasso_model_selection.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/semi_supervised/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.image.extract_patches_2d.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.check_scalar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cluster.FeatureAgglomeration.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LarsCV.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/neighbors/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/multioutput/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.dummy.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_cost_sensitive_learning.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/covariance/plot_lw_vs_oas.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.check_random_state.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.covariance.graphical_lasso.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeClassifierCV.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_digits_agglomeration.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/decomposition/plot_kernel_pca.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cross_decomposition.PLSSVD.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.image.reconstruct_from_patches_2d.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.median_absolute_error.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/miscellaneous/plot_display_object_visualization.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.scale.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/inspection/plot_partial_dependence_visualization_api.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.inspection.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.show_versions.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedGroupKFold.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsTransformer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/classification/plot_lda.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/svm.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TunedThresholdClassifierCV.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_tweedie_regression_insurance_claims.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.consensus_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.ShuffleSplit.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.inspection.PartialDependenceDisplay.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.balanced_accuracy_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_0_23_0.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.exceptions.DataDimensionalityWarning.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/bicluster/plot_bicluster_newsgroups.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/covariance.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/manifold/plot_swissroll.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.impute.KNNImputer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.NeighborhoodComponentsAnalysis.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.tree.export_text.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/feature_extraction.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/preprocessing/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.base.OneToOneFeatureMixin.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/calibration/plot_calibration_multiclass.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.lasso_path.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/naive_bayes.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/manifold/plot_t_sne_perplexity.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_tweedie_deviance.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_hastie_10_2.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.calibration.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.frozen.FrozenEstimator.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.WhiteKernel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_classification.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/inspection/plot_permutation_importance_multicollinear.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_logistic_l1_l2_sparsity.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_face_compress.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/ensemble/plot_stack_predictors.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.metaestimators.available_if.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/compose.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.GaussianProcessClassifier.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.compose.make_column_selector.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.image.img_to_graph.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpc.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/miscellaneous/plot_kernel_approximation.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.cluster.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeClassifier.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils._safe_indexing.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.permutation_test_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.power_transform.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_feature_agglomeration_vs_univariate_selection.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNetCV.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.estimator_checks.estimator_checks_generator.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_lfw_pairs.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.CategoricalNB.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.calibration.CalibratedClassifierCV.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingRegressor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.ndcg_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVR.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_sparse_spd_matrix.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.completeness_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.extmath.safe_sparse_dot.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/model_evaluation.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.KernelCenterer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFECV.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_nnls.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.rand_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.manifold.spectral_embedding.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.impute.IterativeImputer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.PredefinedSplit.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.homogeneity_completeness_v_measure.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/decomposition/plot_image_denoising.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/ensemble/plot_random_forest_regression_multioutput.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.base.ClassNamePrefixFeaturesOutMixin.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.experimental.enable_iterative_imputer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.manifold.Isomap.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.base.is_classifier.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_moons.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/callbacks/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/neural_networks/plot_mlp_training_curves.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.ExpSineSquared.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_adjusted_for_chance_measures.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.additive_chi2_kernel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/miscellaneous/plot_metadata_routing.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.covariance.OAS.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_1_4_0.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegressionCV.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_birch_vs_minibatchkmeans.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/decomposition/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/miscellaneous/plot_multioutput_face_completion.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_spd_matrix.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.exceptions.NotFittedError.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/text/plot_document_clustering.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/cross_decomposition.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/compose/plot_column_transformer.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/neural_networks/plot_mnist_filters.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ridge_regression.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/mixture/plot_gmm_covariances.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.cluster.contingency_matrix.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_cv_indices.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/clustering.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_sample_image.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/compose/plot_compare_reduction.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/miscellaneous/plot_set_output.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/getting_started.html",
+        "layer": "Tầng 2: Concept"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.BaggingClassifier.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.jaccard_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cluster.HDBSCAN.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.random_projection.johnson_lindenstrauss_min_dim.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.FeatureUnion.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.check_scoring.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_underfitting_overfitting.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/tree/plot_cost_complexity_pruning.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cross_decomposition.PLSRegression.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.ensemble.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.mutual_info_classif.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RANSACRegressor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.matthews_corrcoef.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_agglomerative_clustering_metrics.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PassiveAggressiveRegressor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.metrics.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.orthogonal_mp.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_predict.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/svm/plot_weighted_samples.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_recall_fscore_support.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.metric_at_thresholds.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/neighbors/plot_regression.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/ensemble/plot_isolation_forest.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.FactorAnalysis.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.average_precision_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/preprocessing_targets.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/text/plot_document_classification_20newsgroups.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_robust_fit.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/neighbors/plot_caching_nearest_neighbors.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.extmath.density.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.multioutput.ClassifierChain.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.dummy.DummyClassifier.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_covtype.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/compose/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.cross_decomposition.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/calibration.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.multioutput.MultiOutputRegressor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.DistanceMetric.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/calibration/plot_compare_calibration.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/applications/plot_species_distribution_modeling.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/text/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.multilabel_confusion_matrix.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/neighbors/plot_kde_1d.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_coin_segmentation.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.max_error.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/decomposition/plot_varimax_fa.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.paired_distances.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/impute.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_hist_grad_boosting_comparison.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/developing_estimators/sklearn_is_fitted.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.feature_selection.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/applications/plot_tomography_l1_reconstruction.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/tree/plot_tree_regression.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cross_decomposition/plot_compare_cross_decomposition.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_checkerboard.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_successive_halving_iterations.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/svm/plot_svm_tie_breaking.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.manhattan_distances.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_prior_posterior.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/svm/plot_separating_hyperplane.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.ParameterGrid.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.get_config.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cluster.SpectralCoclustering.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/classification/plot_classification_probability.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/miscellaneous/plot_pipeline_display.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.covariance.shrunk_covariance.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PassiveAggressiveClassifier.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/ensemble/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cross_decomposition.PLSCanonical.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.root_mean_squared_log_error.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/applications/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cluster.k_means.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.linear_kernel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.DictVectorizer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.make_union.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.SplineTransformer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/ensemble/plot_adaboost_multiclass.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cluster.BisectingKMeans.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.kernel_ridge.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.RadiusNeighborsRegressor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_target_encoder.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_1_8_0.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.shuffle.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/applications/plot_time_series_lagged_features.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_agglomerative_dendrogram.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.d2_absolute_error_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.compose.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/ensemble/plot_gradient_boosting_regularization.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_1_5_0.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.BernoulliNB.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_stability_low_dim_dense.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/decomposition/plot_incremental_pca.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/decomposition/plot_sparse_coding.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.DetCurveDisplay.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/lda_qda.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.robust_scale.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.utils.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskLassoCV.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.sparse_encode.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.ClassifierTags.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.estimator_checks.check_estimator.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.base.is_regressor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.semi_supervised.LabelSpreading.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.chi2_kernel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/index.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.exceptions.InconsistentVersionWarning.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/multiclass/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.base.ClassifierMixin.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.QuadraticDiscriminantAnalysis.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.orthogonal_mp_gram.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/calibration/plot_calibration_curve.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_ward_structured_vs_unstructured.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Perceptron.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/gaussian_process/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cluster.kmeans_plusplus.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_circles.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cluster.OPTICS.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.kneighbors_graph.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/applications/plot_digits_denoising.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.adjusted_mutual_info_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_pinball_loss.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.parallel.delayed.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectFromModel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/impute/plot_iterative_imputer_variants_comparison.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.get_tags.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.TheilSenRegressor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.discriminant_analysis.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.arrayfuncs.min_pos.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.tree.ExtraTreeClassifier.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_vs_lda.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.callback.ProgressBar.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.datasets.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_ransac.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/neural_networks/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.isotonic.isotonic_regression.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_noisy.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.GammaRegressor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_det.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFE.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/neighbors/plot_nearest_centroid.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.HuberRegressor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.d2_tweedie_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.resample.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/ensemble/plot_voting_regressor.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.clear_data_home.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.non_negative_factorization.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/developing_estimators/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.make_scorer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.metadata_routing.MetadataRouter.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_mini_batch_kmeans.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_grid_search_refit_callable.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/cross_validation.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_importances.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoLarsCV.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/isotonic.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_20newsgroups.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.dummy.DummyRegressor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.callback.CallbackContext.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/feature_selection/plot_feature_selection.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ARDRegression.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.mixture.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/ensemble/plot_forest_iris.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/frozen/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/ensemble/plot_gradient_boosting_regression.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/miscellaneous/plot_estimator_representation.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_file.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.metadata_routing.MethodMapping.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/applications/plot_model_complexity_influence.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/svm/plot_separating_hyperplane_unbalanced.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise_distances_argmin.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.callback.ScoringMonitorLog.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/ensemble/plot_ensemble_oob.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.Tags.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.QuantileTransformer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.validation.check_symmetric.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/covariance/plot_covariance_estimation.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/inspection/plot_causal_interpretation.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/inspection/plot_permutation_importance.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.learning_curve.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/unsupervised_reduction.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.callback.FitCallback.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/ensemble/plot_gradient_boosting_oob.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.radius_neighbors_graph.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/applications/plot_topics_extraction_with_nmf_lda.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingClassifier.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GroupShuffleSplit.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.Hyperparameter.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.OrthogonalMatchingPursuitCV.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.callback.ScoringMonitor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.exceptions.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.explained_variance_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/ensemble/plot_feature_transformation.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.log_loss.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.multiclass.type_of_target.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.manifold.locally_linear_embedding.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/svm/plot_svm_regression.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/compose/plot_feature_union.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_sgdocsvm_vs_ocsvm.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/df_output_transform.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.random_projection.GaussianRandomProjection.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.tree.plot_tree.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/miscellaneous/plot_outlier_detection_bench.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.r_regression.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.semi_supervised.SelfTrainingClassifier.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/semi_supervised/plot_semi_supervised_newsgroups.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.impute.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.RocCurveDisplay.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.config_context.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.InputTags.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_lasso_lars_ic.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.isotonic.check_increasing.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.decomposition.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.svm.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_sgd_weighted_samples.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.isotonic.IsotonicRegression.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.base.is_clusterer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_regression.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.brier_score_loss.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GroupKFold.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.label_binarize.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_optics.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/miscellaneous/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/neighbors/approximate_nearest_neighbors.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.get_scorer_names.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.sparsefuncs_fast.inplace_csr_row_normalize_l2.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/applications/plot_outlier_detection_wine.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.multiclass.unique_labels.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cluster.affinity_propagation.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.compose.make_column_transformer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_inductive_clustering.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.validation.column_or_1d.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_percentage_error.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/svm/plot_iris_svc.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.covariance.GraphicalLasso.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.multiclass.OutputCodeClassifier.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.svm.NuSVC.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.manifold.SpectralEmbedding.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_cluster_comparison.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_similarity.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/calibration/plot_calibration.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/feature_selection/plot_f_test_vs_mi.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OrdinalEncoder.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.class_weight.compute_sample_weight.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_1_9_0.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.lars_path_gram.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.multiclass.OneVsOneClassifier.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskElasticNetCV.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_validate.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_log_error.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_discretization.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.experimental.enable_halving_search_cv.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.as_float_array.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/permutation_importance.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.check_cv.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_dict_face_patches.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_mean_shift.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.normalize.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/ensemble/plot_random_forest_embedding.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/neural_networks_supervised.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/kernel_ridge.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_friedman3.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.safe_mask.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/multiclass.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_0_24_0.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_sample_images.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RepeatedKFold.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/mixture/plot_gmm_init.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.random.sample_without_replacement.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_roc.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/ensemble/plot_gradient_boosting_early_stopping.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_swiss_roll.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.covariance.EmpiricalCovariance.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/kernel_approximation.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.exceptions.EfficiencyWarning.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.GaussianProcessRegressor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/preprocessing.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/classification_threshold.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.pairwise_kernels.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectorMixin.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.sparsefuncs.mean_variance_axis.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_multilabel_classification.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_affinity_propagation.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_linkage_comparison.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_vs_fa_model_selection.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/miscellaneous/plot_anomaly_comparison.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.metadata_routing.process_routing.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_ridge_coeffs.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/miscellaneous/plot_multilabel.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_learning_curve.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.d2_brier_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.multioutput.RegressorChain.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_error.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.multiclass.is_multilabel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.kernel_approximation.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.estimator_checks.parametrize_with_checks.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.sparsefuncs.inplace_csr_column_scale.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.LeavePGroupsOut.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_logistic_multinomial.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PoissonRegressor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cluster.MiniBatchKMeans.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/ensemble/plot_voting_decision_regions.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/tree/plot_unveil_tree_structure.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfTransformer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_permutation_tests_for_classification.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.check_consistent_length.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeCV.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_digits_linkage.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.kernel_approximation.RBFSampler.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.fbeta_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.StackingRegressor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.gen_batches.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.PrecisionRecallDisplay.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_quantile_regression.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_sgd_loss_functions.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.RBF.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cluster.spectral_clustering.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelBinarizer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.discovery.all_functions.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.experimental.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_s_curve.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.Product.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.BernoulliRBM.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_train_error_vs_test_error.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.multioutput.MultiOutputClassifier.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/biclustering.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_1_3_0.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.exceptions.DataConversionWarning.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.frozen.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_huber_vs_ridge.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix_at_thresholds.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.laplacian_kernel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskElasticNet.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.class_likelihood_ratios.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/ensemble/plot_hgbt_regression.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/semi_supervised/plot_semi_supervised_versus_svm_iris.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedShuffleSplit.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/neighbors/plot_nca_classification.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.MiniBatchDictionaryLearning.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.RationalQuadratic.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.validation_curve.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.cosine_distances.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/ensemble/plot_monotonic_constraints.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_svmlight_files.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_poisson_deviance.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_sgd_early_stopping.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/metrics.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_species_distributions.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.calibration.CalibrationDisplay.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.FunctionTransformer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.SparseCoder.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_recall_curve.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/svm/plot_svm_anova.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.LinearDiscriminantAnalysis.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.callback.with_callbacks.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingClassifier.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/manifold/plot_compare_methods.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.inspection.DecisionBoundaryDisplay.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.Kernel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.RobustScaler.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.MiniBatchSparsePCA.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_omp.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.StackingClassifier.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_multi_task_lasso_support.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.neural_network.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/classification/plot_lda_qda.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.HalvingRandomSearchCV.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/learning_curve.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.Normalizer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.extmath.weighted_mode.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SequentialFeatureSelector.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.KernelPCA.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_digits.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.base.DensityMixin.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.FastICA.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.zero_one_loss.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/feature_selection/plot_select_from_model_diabetes.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.random_projection.SparseRandomProjection.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.v_measure_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpc_xor.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.naive_bayes.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.base.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.exceptions.UndefinedMetricWarning.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/ensemble/plot_gradient_boosting_categorical.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_sparse_logistic_regression_mnist.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_coin_ward_segmentation.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RepeatedStratifiedKFold.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.Exponentiation.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/semi_supervised/plot_label_propagation_digits_active_learning.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/calibration/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.validation.check_is_fitted.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNet.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.murmurhash3_32.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_tuned_decision_threshold.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/tree.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/feature_selection.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.dump_svmlight_file.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.base.BaseEstimator.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_lasso_and_elasticnet.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectFpr.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/neighbors/plot_nca_dim_reduction.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.callback.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.PairwiseKernel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoLarsIC.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.lars_path.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_dbscan.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_sgd_iris.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/neighbors/plot_lof_outlier_detection.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.NearestCentroid.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.covariance.ledoit_wolf_shrinkage.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.covariance.LedoitWolf.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.normalized_mutual_info_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.label_ranking_loss.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/svm/plot_rbf_parameters.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_kddcup99.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/semi_supervised/plot_label_propagation_structure.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.validation.check_memory.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/manifold/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.MiniBatchNMF.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_scaling_importance.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/miscellaneous/plot_roc_curve_visualization_api.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.sort_graph_by_row_values.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesRegressor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.base.is_outlier_detector.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.ConfusionMatrixDisplay.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.covariance.GraphicalLassoCV.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostRegressor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.validation.has_fit_parameter.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.kernel_approximation.Nystroem.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_low_rank_matrix.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.KBinsDiscretizer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_assumptions.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_wine.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cluster.ward_tree.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.pipeline.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.base.OutlierMixin.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cluster.cluster_optics_xi.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/mixture/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_friedman2.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.d2_log_loss_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/mixture/plot_gmm_pdf.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.exceptions.FitFailedWarning.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.DictionaryLearning.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_lasso_dense_vs_sparse_data.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/neighbors/plot_nca_illustration.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.make_pipeline.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/covariance/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/bicluster/plot_spectral_biclustering.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/decomposition/plot_ica_blind_source_separation.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.covariance.ShrunkCovariance.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.deprecated.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/decomposition.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectFdr.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.maxabs_scale.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_sparse_coded_signal.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_1_7_0.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.random_projection.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.nan_euclidean_distances.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.distance_metrics.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/datasets/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.covariance.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cluster.SpectralBiclustering.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/covariance/plot_robust_vs_empirical_covariance.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.compose.ColumnTransformer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cluster.MeanShift.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_poisson_regression_non_normal_loss.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.metadata_routing.get_routing_for_object.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/applications/plot_stock_market.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.davies_bouldin_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/ensemble/plot_adaboost_twoclass.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.image.PatchExtractor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_blobs.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.haversine_distances.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_curve.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/applications/plot_prediction_latency.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/compose/plot_digits_pipe.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.svm.OneClassSVM.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/impute/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_multi_metric_evaluation.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/manifold.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_svmlight_file.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/array_api.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.recall_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/decomposition/plot_faces_decomposition.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.sparsefuncs.inplace_swap_row.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_cv_predict.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/release_highlights/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_biclusters.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.TransformerTags.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise_distances_argmin_min.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/fastica-function.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.linear_model.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.manifold.smacof.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/svm/plot_svm_margin.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.extmath.randomized_svd.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/ensemble/plot_gradient_boosting_quantile.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_polynomial_interpolation.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/inspection/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.discovery.all_estimators.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/tree/plot_iris_dtc.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/neighbors/plot_lof_novelty_detection.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.mixture.BayesianGaussianMixture.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/manifold/plot_mds.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.tree.export_graphviz.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.euclidean_distances.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.Sum.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/outlier_detection.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/semi_supervised.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_ard.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/density.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.quantile_transform.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cross_decomposition/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cluster.compute_optics_graph.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.multiclass.OneVsRestClassifier.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.safe_sqr.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/feature_selection/plot_rfe_digits.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/applications/plot_cyclical_feature_engineering.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.kernel_approximation.AdditiveChi2Sampler.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.HalvingGridSearchCV.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.extmath.fast_logdet.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.graph.single_source_shortest_path_length.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.BallTree.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/mixture/plot_gmm_selection.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/random_projection.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cluster.estimate_bandwidth.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomTreesEmbedding.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.impute.MissingIndicator.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/impute/plot_missing_values.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_roc_crossval.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_sparse_logistic_regression_20newsgroups.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_map_data_to_normal.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise_distances_chunked.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PowerTransformer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.assert_all_finite.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cross_decomposition/plot_pcr_vs_pls.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.det_curve.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.check_X_y.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.hamming_loss.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/svm/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.GenericUnivariateSelect.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cluster.Birch.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.TweedieRegressor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.kernel_ridge.KernelRidge.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.extmath.randomized_range_finder.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cluster.cluster_optics_dbscan.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.QuantileRegressor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_grid_search_stats.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.polynomial_kernel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.sparsefuncs_fast.inplace_csr_row_normalize_l1.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/classification/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/multioutput/plot_classifier_chain_yeast.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/svm/plot_custom_kernel.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_linnerud.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/frozen/plot_frozen_examples.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDRegressor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.PredictionErrorDisplay.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/miscellaneous/plot_johnson_lindenstrauss_bound.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.neighbors.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.binarize.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/text/plot_hashing_vs_dict_vectorizer.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.sparsefuncs.incr_mean_variance_axis.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/feature_selection/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.discovery.all_displays.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_compare_gpr_krr.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.chi2.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.base.BiclusterMixin.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.hinge_loss.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.Binarizer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_bayesian_ridge_curvefit.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.fowlkes_mallows_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.exceptions.ConvergenceWarning.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/inspection/plot_linear_model_coefficient_interpretation.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/grid_search.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols_ridge.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_discretization_classification.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.TargetEncoder.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectPercentile.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/linear_model.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/feature_selection/plot_feature_selection_pipeline.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/inspection/plot_partial_dependence.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_logistic_path.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_theilsen.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_grid_search_digits.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.FixedThresholdClassifier.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.semi_supervised.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.paired_euclidean_distances.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/miscellaneous/plot_kernel_ridge_regression.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/gaussian_process.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.TargetTags.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.CompoundKernel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_olivetti_faces.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.ValidationCurveDisplay.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.coverage_error.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/partial_dependence.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_bisect_kmeans.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/mixture/plot_gmm_sin.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_plusplus.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.RadiusNeighborsTransformer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AffinityPropagation.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.cluster.SpectralClustering.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_gaussian_quantiles.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.adjusted_rand_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise_distances.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/kernel_approximation/index.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_grid_search_text_feature_extraction.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/neighbors.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/ensemble/plot_bias_variance.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.sparsefuncs.inplace_swap_column.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.LeavePOut.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/feature_selection/plot_rfe_with_cross_validation.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.calibration.calibration_curve.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.metadata_routing.MetadataRequest.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/compose/plot_column_transformer_mixed_types.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/cluster/plot_segmentation_toy.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/bicluster/plot_spectral_coclustering.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_files.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.OrthogonalMatchingPursuit.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.d2_pinball_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.mutual_info_regression.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.estimator_html_repr.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.covariance.empirical_covariance.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/sgd.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.MultiTaskLasso.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpc_isoprobability.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.RadiusNeighborsClassifier.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.dict_learning_online.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.BaggingRegressor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.exceptions.EstimatorCheckFailedWarning.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.top_k_accuracy_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/manifold/plot_lle_digits.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.paired_cosine_distances.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.callback.AutoPropagatedCallback.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_1_6_0.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/neighbors/plot_species_kde.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.set_config.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.cohen_kappa_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.label_ranking_average_precision_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_on_structured_data.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/ensemble.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/svm/plot_svm_scale_c.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.feature_extraction.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.compose.TransformedTargetRegressor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.sigmoid_kernel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.get_data_home.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.VarianceThreshold.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.dcg_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/datasets/plot_random_multilabel_dataset.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_noisy_targets.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_0_22_0.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.minmax_scale.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.DotProduct.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/compose/plot_transformed_target.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_randomized_search.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/model_selection/plot_successive_halving_heatmap.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.ComplementNB.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/neighbors/plot_classification.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_target_encoder_cross_val.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.validation.validate_data.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.inspection.permutation_importance.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_openml.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/svm/plot_svm_kernels.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lars.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.ConstantKernel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.sparsefuncs.inplace_row_scale.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/pipeline.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_friedman1.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/covariance/plot_sparse_cov.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.Matern.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.manifold.trustworthiness.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.auc.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.enet_path.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/miscellaneous/plot_isotonic_regression.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.rbf_kernel.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.semi_supervised.LabelPropagation.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.class_weight.compute_class_weight.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.calinski_harabasz_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/applications/plot_face_recognition.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.preprocessing.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.model_selection.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/dbscan-function.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.f_regression.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.ParameterSampler.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/neural_networks_unsupervised.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_sparse_uncorrelated.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDOneClassSVM.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.tree.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/applications/wikipedia_principal_eigenvector.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_gamma_deviance.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectFwe.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.add_dummy_feature.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/decomposition/plot_ica_vs_pca.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_samples.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/multiclass/plot_multiclass_overview.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.multioutput.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_rcv1.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/ensemble/plot_adaboost_regression.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MaxAbsScaler.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.manifold.ClassicalMDS.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.LearningCurveDisplay.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MultiLabelBinarizer.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_1_0_0.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/api/sklearn.gaussian_process.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedKFold.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/callbacks/plot_scoring_monitor.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.utils.sparsefuncs.inplace_column_scale.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/decomposition/plot_pca_iris.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.homogeneity_score.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/semi_supervised/plot_label_propagation_digits.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/covariance/plot_mahalanobis_distances.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/neural_networks/plot_mlp_alpha.html",
+        "layer": "Tầng 3: Code Recipes"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.kernel_metrics.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoLars.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KernelDensity.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html",
+        "layer": "Tầng 1: API Reference"
+    },
+    {
+        "url": "https://scikit-learn.org/stable/auto_examples/linear_model/plot_lasso_lasso_lars_elasticnet_path.html",
+        "layer": "Tầng 3: Code Recipes"
+    }
+]
